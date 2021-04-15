@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PDA100986
 - 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...HTML/CSS/JS
-- 💞️ I’m looking to collaborate on ...Web Proyects
+- 💞️ I’m looking to collaborate on ...Web/APP Projects
 - 📫 How to reach me ...
 
 <!---
